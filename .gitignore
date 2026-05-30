@@ -1,0 +1,12 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# (Opcional) Archivos de Excel crudos
+# Si el archivo original del INEI pesa demasiado, descomenta la siguiente línea para no subirlo
+# *.xlsx
